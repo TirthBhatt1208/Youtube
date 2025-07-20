@@ -9,13 +9,13 @@ Also integrates with Cloudinary for uploading and deleting images (thumbnails, c
 
 ## 🚀 Features
 
-✅ User management: register, login, profile update
-✅ Video upload & management (with thumbnails & cover images via Cloudinary)
-✅ Playlist creation & management
-✅ Community posts (like tweets)
-✅ Likes & Comments system
-✅ Subscription system
-✅ Dashboard with analytics
+- ✅ **User management:** register, login, profile update
+- ✅ **Video upload & management:** with thumbnails & cover images via Cloudinary
+- ✅ **Playlist creation & management**
+- ✅ **Community posts:** like tweets
+- ✅ **Likes & Comments system**
+- ✅ **Subscription system**
+- ✅ **Dashboard with analytics**
 
 ---
 
